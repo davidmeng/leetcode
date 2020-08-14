@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/domain/Dict.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/organizer/BaseOrganizer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/organizer/EventPreHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/organizer/handler/CAPPEventContentDuplicatedHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/organizer/handler/EventContentDuplicatedHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/organizer/handler/EventPreHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/pojo/CoeBasicInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/java/com/homecredit/tae/coe/job/app/service/impl/DictServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/ALDI.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/B2B.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/CP.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_ALDI_SR_MP.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_ALDI_SR_PR.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_ALDI_SR_RA.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_HCP_SR_MP.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_HCP_SR_PO.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_PP_CL.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_REOPEN_MP.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/MAPP_REOPEN_PO.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/O2O.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/PS.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/RBO.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/main/resources/template/frameContractLimitFragment.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/test/java/com/homecredit/tae/coe/job/app/organizer/OrganizerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/test/java/com/homecredit/tae/coe/job/app/service/CoeJobServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-app/src/test/java/com/homecredit/tae/coe/job/app/service/DictServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../af-coe-job/coe-job-conf/src/main/resources/mongoSQL/RDCN-2402">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../demo/demo/src/main/java/com/example/demo/controller/QuestionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-conf/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-conf/src/main/resources/assembly/assembly-conf-sit.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-conf/src/main/resources/conf/sit/e-evidence-conf/CustomerPortalWS.wsdl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-conf/src/main/resources/conf/sit/e-evidence-conf/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-conf/src/main/resources/conf/sit/e-evidence-conf/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/dto/DocumentDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/dto/FlcDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/entity/converter/DocumentTypeConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/exception/FileException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/exception/HomerHdssDocumentRemoteException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/exception/TsaException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/guice/GuiceObjectFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/rabbitmq/MQConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/service/impl/DocumentServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-flc/src/main/java/cn/homecredit/eevidence/service/impl/FileOperationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-service/src/main/java/cn/homecredit/eevidence/service/impl/EEvidenceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/e-evidence-util/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/esignature-service/src/main/java/cn/homecredit/esignature/service/document/FileMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-signature/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1367]二叉树中的列表.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[287]寻找重复数.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/Problem1367.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/Problem1367_1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/Problem1367_2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/[287]寻找重复数.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/[4]寻找两个正序数组的中位数.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryShopper-task-service/mysteryshop-service-task-sql/BR/RDCN-2195/DDL.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryShopper-task-service/mysteryshop-service-task-web/src/main/java/cn/homecredit/mystery/shopper/ms/task/pojo/ReportBoInputInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryShopper-task-service/mysteryshop-service-task-web/src/main/java/cn/homecredit/mystery/shopper/ms/task/service/impl/TaskServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryShopper-user-service/conf/perf/mysteryshop-services-web/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryShopper-user-service/conf/prep/mysteryshop-services-web/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryShopper-user-service/mysteryshop-services-conf/src/main/resources/conf/dev/mysteryshop-services-web/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryShopper-user-service/mysteryshop-services-web/src/test/java/cn/homecredit/mystery/shopper/configuration/CityDatastore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryshop-backend/conf/sit/mysteryshop-backend-mobile/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryshop-backend/mysteryshop-backend-core/src/main/java/cn/homecredit/mystery/shopper/request/subReports/BoInput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryshop-backend/mysteryshop-backend-core/src/main/java/cn/homecredit/mystery/shopper/request/subReports/BoViolation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mysteryshop-backend/mysteryshop-backend-core/src/main/java/cn/homecredit/mystery/shopper/request/subReports/FtViolation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
