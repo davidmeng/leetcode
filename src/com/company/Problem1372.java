@@ -1,6 +1,5 @@
 package com.company;
 
-import sun.reflect.generics.tree.Tree;
 
 public class Problem1372 {
     public static void main(String[] args) {

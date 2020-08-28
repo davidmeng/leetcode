@@ -1,0 +1,16 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.class
+
+### Eclipse ###
+.settings
+.project
+.classpath
+
+### Class Files ###
+/**/target/
+/out/**
+

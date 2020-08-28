@@ -1,21 +1,20 @@
 package com.company;
 
-import sun.awt.image.ImageWatched;
-
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 public class Problem17 {
 
-    private static char [][] arr = {
-            {'a','b','c'},
-            {'d','e','f'},
-            {'g','h','i'},
-            {'j','k','l'},
-            {'m','n','o'},
-            {'p','q','r','s'},
-            {'t','u','v'},
-            {'w','x','y','z'}
+    private static char[][] arr = {
+            {'a', 'b', 'c'},
+            {'d', 'e', 'f'},
+            {'g', 'h', 'i'},
+            {'j', 'k', 'l'},
+            {'m', 'n', 'o'},
+            {'p', 'q', 'r', 's'},
+            {'t', 'u', 'v'},
+            {'w', 'x', 'y', 'z'}
     };
 
     public List<String> letterCombinations(String digits) {
@@ -24,25 +23,35 @@ public class Problem17 {
         if (digits == null || digits.length() == 0) {
             return list;
         }
-/*
 
-        for (int i = 0 ; )
-*/
+        List<String> result = new ArrayList<>();
+        int arr[] = new int[digits.length()];
+        byte[] bytes = digits.getBytes();
+        for (int i = 0; i < bytes.length; i++) {
+            arr[i] = (int) bytes[i] - '0';
+        }
 
-        return list;
+        letterCombinations(arr, 0, new StringBuffer(), result);
+
+        return result;
     }
 
-    public StringBuffer letterCombinations(String digits, int i, int j, StringBuffer sb) {
-        if (i == digits.length()) {
-            return sb;
+    public void letterCombinations(int[] digits, int i, StringBuffer sb, List<String> result) {
+
+        if (i == digits.length) {
+            result.add(sb.toString());
+            return;
         }
 
-        int jIndex = arr[digits.charAt(i) - '2'].length;
-        if (j == jIndex) {
-            return letterCombinations(digits, i+1, 0, sb);
+        for (int j = 0; j < arr[digits[i] - 2].length; j++) {
+            sb.append(arr[digits[i] - 2][j]);
+            letterCombinations(digits, i + 1, sb, result);
+            sb.deleteCharAt(sb.length() - 1);
         }
+    }
 
-        sb.append(arr[digits.charAt(i) - '2'][j]);
-        return letterCombinations(digits, i, j+1, sb);
+    public static void main(String[] args) {
+        Problem17 p = new Problem17();
+        System.out.println(p.letterCombinations("2"));
     }
 }
